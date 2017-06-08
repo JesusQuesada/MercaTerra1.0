@@ -7,7 +7,7 @@ package menu;
 
 /**
  *
- * @author Vinyard82
+ * @author jquesadaabeijon
  */
 public class Pago extends javax.swing.JFrame {
 

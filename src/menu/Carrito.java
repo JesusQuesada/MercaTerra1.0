@@ -20,7 +20,7 @@ import javax.swing.table.TableColumnModel;
 
 /**
  *
- * @author Vinyard82
+ * @author jquesadaabeijon
  */
 public class Carrito extends javax.swing.JFrame {
 
